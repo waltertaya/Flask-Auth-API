@@ -14,6 +14,7 @@ If the credentials match, the server grants access to the requested resource; ot
 ## DigestAuth
 
 `what is digest authentication`
+
 Digest authentication is a challenge-response authentication mechanism used to verify a user’s identity without transmitting their password in plaintext over the network. It’s a more secure alternative to basic authentication, which sends passwords in base64 encoding over HTTP.
 
 
